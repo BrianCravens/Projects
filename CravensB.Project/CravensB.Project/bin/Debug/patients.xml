@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PatientCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PatList>
+    <Patients>
+      <PatientId>1</PatientId>
+      <FirstName>Brian </FirstName>
+      <MiddleName>LeEdward</MiddleName>
+      <LastName>Cravens</LastName>
+      <DateOfBirth>4/13/1989</DateOfBirth>
+      <Gender>Male</Gender>
+      <Race>Caucasion</Race>
+      <Address>1110 Old Hunters Point Pike</Address>
+      <City>Lebanon</City>
+      <State>TN</State>
+      <Zip>37087</Zip>
+      <Country>USA</Country>
+      <Telephone>615-444-4444</Telephone>
+      <PatientList />
+    </Patients>
+    <Patients>
+      <PatientId>1</PatientId>
+      <FirstName>Brian </FirstName>
+      <MiddleName>LeEdward</MiddleName>
+      <LastName>Cravens</LastName>
+      <DateOfBirth>4/13/1989</DateOfBirth>
+      <Gender>Male</Gender>
+      <Race>Caucasion</Race>
+      <Address>1110 Old Hunters Point Pike</Address>
+      <City>Lebanon</City>
+      <State>TN</State>
+      <Zip>37087</Zip>
+      <Country>USA</Country>
+      <Telephone>615-444-4444</Telephone>
+      <PatientList />
+    </Patients>
+    <Patients>
+      <PatientId>1</PatientId>
+      <FirstName>Brian </FirstName>
+      <MiddleName>LeEdward</MiddleName>
+      <LastName>Cravens</LastName>
+      <DateOfBirth>4/13/1989</DateOfBirth>
+      <Gender>Male</Gender>
+      <Race>Caucasion</Race>
+      <Address>1110 Old Hunters Point Pike</Address>
+      <City>Lebanon</City>
+      <State>TN</State>
+      <Zip>37087</Zip>
+      <Country>USA</Country>
+      <Telephone>615-444-4444</Telephone>
+      <PatientList />
+    </Patients>
+    <Patients>
+      <PatientId>1</PatientId>
+      <FirstName>Brian </FirstName>
+      <MiddleName>LeEdward</MiddleName>
+      <LastName>Cravens</LastName>
+      <DateOfBirth>4/13/1989</DateOfBirth>
+      <Gender>Male</Gender>
+      <Race>Caucasion</Race>
+      <Address>1110 Old Hunters Point Pike</Address>
+      <City>Lebanon</City>
+      <State>TN</State>
+      <Zip>37087</Zip>
+      <Country>USA</Country>
+      <Telephone>615-444-4444</Telephone>
+      <PatientList />
+    </Patients>
+  </PatList>
+</PatientCollection>

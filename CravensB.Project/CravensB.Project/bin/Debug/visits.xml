@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisitCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <VisitList>
+    <Visits>
+      <PId>1</PId>
+      <VisitId>1</VisitId>
+      <VisitDate>12/13/12</VisitDate>
+      <Location>Lebanon</Location>
+      <Physician>Hey</Physician>
+      <Description>checkup</Description>
+    </Visits>
+    <Visits>
+      <PId>1</PId>
+      <VisitId>4</VisitId>
+      <VisitDate>1/23/4</VisitDate>
+      <Location>Knoxville</Location>
+      <Physician>Hayward</Physician>
+      <Description>Normal Check-up</Description>
+    </Visits>
+  </VisitList>
+</VisitCollection>

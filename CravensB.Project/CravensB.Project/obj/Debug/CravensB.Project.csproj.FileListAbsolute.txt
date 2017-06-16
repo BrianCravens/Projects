@@ -1,0 +1,18 @@
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\CravensB.Project\CravensB.Project\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\CravensB.Project\CravensB.Project\obj\Debug\CravensB.Project.PatientForm.resources
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\CravensB.Project\CravensB.Project\obj\Debug\CravensB.Project.Properties.Resources.resources
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\CravensB.Project\CravensB.Project\obj\Debug\CravensB.Project.VisitForm.resources
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\CravensB.Project\CravensB.Project\obj\Debug\CravensB.Project.csproj.GenerateResource.Cache
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\CravensB.Project\CravensB.Project\bin\Debug\CravensB.Project.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\CravensB.Project\CravensB.Project\bin\Debug\CravensB.Project.pdb
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\CravensB.Project\CravensB.Project\obj\Debug\CravensB.Project.exe
+C:\Users\Brian\Documents\Visual Studio 2008\Projects\CravensB.Project\CravensB.Project\obj\Debug\CravensB.Project.pdb
+E:\C#-3400\CravensB.Project (2)\CravensB.Project\CravensB.Project\obj\Debug\CravensB.Project.exe
+E:\C#-3400\CravensB.Project (2)\CravensB.Project\CravensB.Project\obj\Debug\CravensB.Project.pdb
+E:\C#-3400\CravensB.Project (2)\CravensB.Project\CravensB.Project\obj\Debug\ResolveAssemblyReference.cache
+E:\C#-3400\CravensB.Project (2)\CravensB.Project\CravensB.Project\obj\Debug\CravensB.Project.PatientForm.resources
+E:\C#-3400\CravensB.Project (2)\CravensB.Project\CravensB.Project\obj\Debug\CravensB.Project.Properties.Resources.resources
+E:\C#-3400\CravensB.Project (2)\CravensB.Project\CravensB.Project\obj\Debug\CravensB.Project.VisitForm.resources
+E:\C#-3400\CravensB.Project (2)\CravensB.Project\CravensB.Project\obj\Debug\CravensB.Project.csproj.GenerateResource.Cache
+E:\C#-3400\CravensB.Project (2)\CravensB.Project\CravensB.Project\bin\Debug\CravensB.Project.exe
+E:\C#-3400\CravensB.Project (2)\CravensB.Project\CravensB.Project\bin\Debug\CravensB.Project.pdb
